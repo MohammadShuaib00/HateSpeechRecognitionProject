@@ -1,5 +1,15 @@
 # HateSpeechRecognitionProject
 
+
+# Project Workflow
+
+constants
+config_enity
+artifact_enity
+components
+pipeline
+app.py
+
 ## How to run?
 
 ```bash
