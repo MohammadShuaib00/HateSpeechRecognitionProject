@@ -1,5 +1,6 @@
 import os
 
+
 class AWSS3Sync:
     # Upload file to S3 bucket
     def sync_folder_to_s3(self, s3_bucket_url, filepath, filename):
